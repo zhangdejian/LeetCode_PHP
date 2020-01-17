@@ -18,6 +18,8 @@ function twoSum($nums, $target) {
     }
 }
 /**
+ * 难度: 简单
+ * 标签: 数组、哈希表
  * 解法: 一遍哈希表
  * 思路: isset性能比array_key_exists要好，因为isset是语言结构，而array_key_exists是函数，语言结构的解析运行要比函数快一点。
  * 时间复杂度:O(n)
