@@ -25,8 +25,6 @@ function reverse($x) {
     return $new_result;
 }
 /**
- * 难度: 简单
- * 标签: 数学
  * 解法: 把整数当字符串反转，再转整数
  * 思路: 辅助函数
  * 时间复杂度: O(n)

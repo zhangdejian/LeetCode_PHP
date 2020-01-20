@@ -20,8 +20,6 @@ function twoSum($nums, $target) {
     return [-1,-1];
 }
 /**
- * 难度: 简单
- * 标签: 数组、哈希表
  * 解法: 两遍哈希表
  * 思路: 采用数组函数array_keys来解题， 返回包含数组中所有键名的一个新数组，array_keys是一个哈希函数
  * 时间复杂度:O(n)

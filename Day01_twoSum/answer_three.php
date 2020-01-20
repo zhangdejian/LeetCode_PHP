@@ -18,8 +18,6 @@ function twoSum($nums, $target) {
     }
 }
 /**
- * 难度: 简单
- * 标签: 数组、哈希表
  * 解法: 一遍哈希表
  * 思路: 采用数组函数array_key_exists来解题， 判断数组是否存在此键名，array_key_exists是一个哈希函数
  * 时间复杂度:O(n)
