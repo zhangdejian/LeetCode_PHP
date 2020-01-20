@@ -6,4 +6,6 @@
 
 ## [Day03_二分查找](https://github.com/zhangdejian/LeetCode_PHP/tree/master/Day03_binarySearch)
 
+## [Day04_回文数](https://github.com/zhangdejian/LeetCode_PHP/tree/master/Day04_isPalindrome)
+
 >每天一道算法，每日精进一点，日积月累，就这样慢慢成为大佬啦！
