@@ -20,7 +20,6 @@ function rotate(&$nums, $k) {
             $prev = $temp;
             $current = $next;
             $count++;//控制循环的次数
-
         } while($start != $current);//开始位置和当前位置不同一个位置才进行元素移动
     }
     return $nums;
