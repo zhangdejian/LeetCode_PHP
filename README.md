@@ -14,4 +14,6 @@
 
 ## [Day07_旋转数组(189号)](https://github.com/zhangdejian/LeetCode_PHP/tree/master/Day07_rotate)
 
+## [Day08_删除排序数组中的重复项(26号)](https://github.com/zhangdejian/LeetCode_PHP/tree/master/Day08_removeDuplicates)
+
 >每天一道算法，每日精进一点，日积月累，就这样慢慢成为大佬啦！
