@@ -16,4 +16,6 @@
 
 ## [Day08_删除排序数组中的重复项(26号)](https://github.com/zhangdejian/LeetCode_PHP/tree/master/Day08_removeDuplicates)
 
+## [Day09_搜索插入位置(35号)](https://github.com/zhangdejian/LeetCode_PHP/tree/master/Day09_searchInsert)
+
 >每天一道算法，每日精进一点，日积月累，就这样慢慢成为大佬啦！
